@@ -1,0 +1,10 @@
+*.zip
+*.7z
+*.rar
+*.bak
+*.bak_zh
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+game_path.txt
