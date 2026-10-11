@@ -23,6 +23,20 @@
 | **字形补充** | 自带位图字体只覆盖其中 828 个汉字，补丁从 **Noto Sans SC** 重新渲染并补入 **975 个缺失汉字**（字形总数 2704 → 3679），字重、灰度、边缘观感与原字体对齐 |
 | **字体与语言入口修复** | 把可用的字体槽位换成游戏自带的 **Noto Sans CJK**；绕过官方语言白名单，让中文可以正常启用（菜单里显示为「简体中文」） |
 
+
+---
+
+## 直接下载（不用网盘）
+
+| 方式 | 链接 |
+|---|---|
+| GitHub 直链 | `https://raw.githubusercontent.com/MrDestinyCJ/nomnom_chinese/main/dist/NomNomGalaxy_Chinese_Patch_v1.0.zip` |
+| jsDelivr CDN | `https://cdn.jsdelivr.net/gh/MrDestinyCJ/nomnom_chinese@v1.0/dist/NomNomGalaxy_Chinese_Patch_v1.0.zip` |
+| 加速镜像 | `https://ghproxy.net/https://raw.githubusercontent.com/MrDestinyCJ/nomnom_chinese/main/dist/NomNomGalaxy_Chinese_Patch_v1.0.zip` |
+| v1.0 整包 | [Releases / Tags](https://github.com/MrDestinyCJ/nomnom_chinese/tree/v1.0) |
+
+压缩包 SHA-256：`0f2bbd40e33aa3887b044dec2181963c7534541aae29607491a641e0dc6a28d9`
+
 ---
 
 ## 安装
