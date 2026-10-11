@@ -1,6 +1,6 @@
-*.zip
 *.7z
 *.rar
+!dist/*.zip
 *.bak
 *.bak_zh
 .DS_Store
