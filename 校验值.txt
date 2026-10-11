@@ -1,0 +1,18 @@
+《美味银河》简体中文汉化补丁 v1.0  文件校验值（SHA-256）
+
+4025cbcd922d22821f743de88c0791661acf528d666f3e1a5fe4cb9590372e5f  install.py
+e13ede3a9cf98f73c0aaa04c65c8f7caae71ab475f5cef2dbf29d16a1a8d166c  patch_data/entry_0.bin.z
+ffd8f7c02b2de4063dc9341167c12f054abc0a9de0c3492881d3dc60810f7114  patch_data/entry_315.bin.z
+d4b8eba6b2bd00ebe7e36712aa46b41092ecb9696e19644d61b3814ccfa2ddfd  patch_data/entry_8.bin.z
+cb7dc1375d261cc4ceaeb20dd97dcea0293504cfc0adf01dd00d3b3fda04faee  patch_data/entry_833.bin.z
+34394b8836f90b68bcd35bb97676f349c01f16429afb794785fa8b975ecda6d6  patch_data/entry_895.bin.z
+741026c15a2ebc984206e46b0f6b8bba6915ee55b7bff5d40fbb9e681dafed16  translation_source.json
+dfa1eec46db0362e3d2fdbc45ea47d748d9aa351b7991173ad404ecb8f097ce0  uninstall.py
+ae24fa1b775657072a08bfea1de66f712c9f7f09fa8dbc3740de8d728a78e76a  卸载还原.bat
+c7af84891fd16408d57ebaf1f481a2d936d53c85d6d451672b19888365be6de5  安装汉化.bat
+2db574f45fdab7a1a2339729f1ebef370c0c27a39255359c9ce7b1214e2ccbd4  安装说明.txt
+e813ad1ef622755ec26ccd23a07febb36d5b77d96ce6ef5426814186260884e2  说明.txt
+
+校验方法：在补丁目录按住 Shift + 右键 →「在此处打开 PowerShell 窗口」，执行
+  Get-FileHash -Algorithm SHA256 .\安装汉化.bat
+把结果和上面一行对比即可。
